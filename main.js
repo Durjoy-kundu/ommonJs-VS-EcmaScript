@@ -10,6 +10,7 @@
 
 const c = require("./mymodule2.js")
 console.log(c);
+consol.log(c) //print the varlue of c
 
 
 // // const { createServer } = require('node:http');
